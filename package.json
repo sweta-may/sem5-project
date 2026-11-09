@@ -1,0 +1,21 @@
+{
+  "name": "network-bandwidth-monitoring-system",
+  "version": "1.0.0",
+  "description": "Network Bandwidth Usage Monitoring and Threshold Alert System using Regular Expressions and Finite-State Machines",
+  "scripts": {
+    "start": "cd backend && npm start",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "test": "cd backend && npm test"
+  },
+  "keywords": [
+    "network-monitoring",
+    "finite-state-machine",
+    "regular-expressions",
+    "bandwidth-alert",
+    "full-stack"
+  ],
+  "author": "",
+  "license": "ISC"
+}
